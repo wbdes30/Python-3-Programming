@@ -1,4 +1,5 @@
 # Python-3-Programming-Project
+Course 5 assignments of Python 3 Programming Specialization by University of Michigan
 ## Assignment 1
 
 By using Object-Oriented Programming (OOP), you will create a program called _WordyPy_. In WordyPy, the bot you create must try to guess a five-letter secret word based on feedback given from the game engine. For each word guess your bot makes, the WordyPy game engine will give detailed feedback which your bot can use to increase its chances of winning.
