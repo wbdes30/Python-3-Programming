@@ -40,4 +40,5 @@ Your job is to read in a WordyPy partial play and provide a next good guess. A g
 - Continues to adhere to the rules of WordPy
 - Does not repeat words which have already been played
 - Uses the knowledge of previous guesses to pick a new good word
+
 A module called wordy was provided to import.
